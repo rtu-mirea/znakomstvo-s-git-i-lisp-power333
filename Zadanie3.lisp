@@ -2,3 +2,4 @@
 (nth 2 a)
 (nth 1(nth 4 a))
 (+ (nth 1 a) (nth 3 a))
+(nth 2(nth 0) a)
